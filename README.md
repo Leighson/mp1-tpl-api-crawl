@@ -19,6 +19,7 @@ During this mini-project, we will work with the API from [Transport of London](h
 
 > #### Instruction
 > Register for the [API service](https://www.themoviedb.org/account/signup) to obtain the **API Key**. We will have to append this value as parameter `api_key` into each URL when sending the request.
+> A common workflow here on TMDB is to search for a movie (or TV show, or person) and then query for the details.
 
 Once we are registered we can check the documentation of this API [here](https://developers.themoviedb.org/3/account).
 
